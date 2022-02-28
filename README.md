@@ -1,5 +1,5 @@
-# marijuana_invasion
-Marijuana invasion is a python game created using pygame library, Most of the code here is from "Alien Invasion" Eric Matthes' "Python Crash Course" book, though I have added some gameplay  changes.
+# Marijuana Invasion
+Marijuana invasion is a python game created using pygame library. Most of the code here is from "Alien Invasion" by Eric Matthes's "Python Crash Course" book, though I have added some gameplay changes.
 
 ![Screenshot from 2022-02-28 16-00-00](/images/marijuana_invasion.png)
 
@@ -30,4 +30,4 @@ If any leaf hits the player’s joint or reaches the bottom of the screen, the p
 
 To run:
 ```
-python marijauna_invasion.py
+python marijuana_invasion.py
