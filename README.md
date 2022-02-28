@@ -18,8 +18,8 @@ Marijuana invasion is a python game created using pygame library. Most of the co
 
 ## game description
 
-In Marijauna Invasion, the player controls a ship that appears at the bottom center of the screen. \
-The player can move the ship right, left using the arrow keys and shoot bullets using the spacebar. \
+In Marijauna Invasion, the player controls a joit that appears at the bottom center of the screen. \
+The player can move the joint right, left using the arrow keys and shoot bullets using the spacebar. \
 When the game begins, a fleet of marijuana leaf fills the skyand moves across and down the screen. \
 The player shoots and destroys the leafs. If the player shoots all the leafs, a new fleet appears that moves faster than the previous fleet.
 If any leaf hits the player’s joint or reaches the bottom of the screen, the player loses a joint. If the player loses three joints, the game ends.
